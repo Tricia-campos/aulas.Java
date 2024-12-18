@@ -4,5 +4,5 @@
 /**
  * 
  */
-module METODOS {
+module AULAS01 {
 }
